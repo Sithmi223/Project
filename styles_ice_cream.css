@@ -1,0 +1,74 @@
+body
+	{
+		background-image:url('2-Ingredient-Ice-cream-Thumbnail-scaled.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+
+h1
+	{
+		font-size: 75px;
+		font-family: Segoe Print;
+		color: blue;
+		font-weight: bold;
+		text-align: center;
+	}
+	
+h2
+	{
+		font-size: 50px;
+		font-family: Ink Free;
+		color: white;
+		font-weight: bold;
+		text-align: left;
+	}
+	
+nav ul 
+	{
+		text-align: center;
+		font-size: 30px;
+	}
+
+nav ul li 
+	{
+		display: inline;
+		margin-right: 20px;
+	}
+
+.container 
+	{
+		max-width: 800px;
+		margin: 0 auto;
+		font-size: 30px;
+	}
+
+.flavors
+	{
+		margin-bottom: 40px;
+	}
+
+.flavors h2 
+	{
+		color: #f26161;
+		margin-bottom: 10px;
+	}
+
+.flavors ul 
+	{
+		list-style-type: none;
+		font-size: 30px;
+	}
+
+.flavors ul li 	
+	{
+		margin-bottom: 10px;
+	}
+
+footer
+	{
+		background-color: grey;
+		font-size: 15px;
+		text-align: center;
+		font-weight: normal;
+	}
